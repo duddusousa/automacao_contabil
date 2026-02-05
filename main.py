@@ -1,0 +1,1 @@
+print ("Automação contábil iniciada")
